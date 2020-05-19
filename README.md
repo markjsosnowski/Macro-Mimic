@@ -3,5 +3,8 @@ An AHK script capable of reading in mouse and keyboard actions and then repeatin
 mimic.ini allows for changing of settings without editing the script file. 
 
 TODO:
-make ctrl, alt work 
-figure out how to set hotkeys via the .ini
+-make ctrl, alt work 
+
+-figure out how to set hotkeys via the .ini
+
+-save macros for replay later
